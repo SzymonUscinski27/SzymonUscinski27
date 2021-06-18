@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szymon Uściński</h1>
 <h3 align="center">A passionate Frontend Developer from Poznań, Poland</h3>
 
-- 🔭 I’m currently working on [To do list](https://github.com/SzymonUscinski27/to-do-list)
+- 🔭 I’m currently working on [Currency converter in React.js](https://github.com/SzymonUscinski27/currency-converter-react)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js (ESLint, Babel, Webpack etc.)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SzymonUscinski27?tab=repositories](https://github.com/SzymonUscinski27?tab=repositories)
 
